@@ -29,14 +29,14 @@ If you would like to contribute to the project
 20. Data privacy
 
 #### Course II: Google and the Cloud
-1. What is the cloud? - 
-2.How to get help
+1. What is the cloud?
+2. How to get help
 3. Google Chrome
 4. Google Drive - be sure to talk about sharing on google
 5. Google Sheets
-6. Google Slides -shannon
-7. Google Docs: aboozar 
-8. Google Calendar-kai
+6. Google Slides
+7. Google Docs
+8. Google Calendar
 9. Google Maps
 10. Google Hangouts
 11. Youtube
