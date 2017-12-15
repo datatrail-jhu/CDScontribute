@@ -1,7 +1,19 @@
 # How to Contribute to the Chromebook Data Science project
 
 ## Content Development
-If you would like to contribute to the project 
+The most important way to contribute to the project at this point is content development. You can contribute by developing course lessons by choosing a lesson from the courses listed below and pushing your `.md` file to the corresponding course repository. Since others have already started contributing to course development, make sure no other person has already developed the course lesson by checking the course repository. Course repos are hosted here:
+
+1. [Course I: Introduction and Setup[()
+2. [Course II: Google and the Cloud](https://github.com/jhudsl/cds_googlecloud)
+3. [Course III: Data]()
+4. [Course IV: R]()
+5. [Course V: MarkDown Basics](https://github.com/jhudsl/cds_markdownbasics)
+6. [Course VI: Github Basics](https://github.com/jhudsl/cds_githubbasics)
+7. [Course VII: Key Packages]()
+8. [Course VIII: Getting Gelp](https://github.com/jhudsl/cds_gettinghelp)
+9. [Course IX: Data Cleaning and Visualization & Case Studies]()
+
+
 
 
 
@@ -109,7 +121,9 @@ If you would like to contribute to the project
 13. plotly
 14. gganimate
 
-#### Course VIII: Data Cleaning and Visualization & Case Studies
+#### Course VIII: Getting Help
+
+#### Course IX: Data Cleaning and Visualization & Case Studies
 1. Data cleaning process (Messy vs Tidy)
 2. How to find R packages for different data types
 3. Rstats.cetfile
