@@ -33,6 +33,11 @@ Keep the following items in mind for an easy-to-read lesson.
 8. Cite! You are responsible to cite the sources that you use in your content. If it is an image, provide the link where you downloaded the image at the bottom. If you cite a blog post, journal article, video, or any other document, provide the link and the date you accessed the content.
 9. Feel free to read the already existing contet on the Github repos above to have a sense of appropriate style.
 
+### Formatting
+Lessons should be written in Markdown and pushed to the `manuscript` folder in the related course repository. Please make sure to name the document starting with the lesson number (starting from 00) followed by "lesssonname". For instance, the lesson on Version Control in the Github Basics course is saved as `01_versioncontrol.md`.
+
+Any image used in the course should be placed in the `img` folder of each course repository even if it is taken from online resources. Avoid importing images directly from urls since links may not be permanent. For naming, use a similar protocol. For instance, an image used in the Version Control lesson can be called `06_imagename.png` and should be placed in a subfolder called `01_versioncontrol` in the `img` folder. Make sure to link images in a relative format within your document.
+
 ### Third-party content copyright
 As mentioned above, you can use content from outside sources ONLY if they are under CC BY Attribution license. The use of copyrighted material and content under CC BY NC is prohibited. 
 
