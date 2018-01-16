@@ -69,7 +69,7 @@ As mentioned above, you can use content from outside sources ONLY if they are un
 - [x] Google Chrome
 - [x] Google Drive
 - [x] Google Sheets
-- [] Google Slides
+-[] Google Slides
 - [x] Google Docs
 - [x] Google Calendar
 - [] Google Maps
