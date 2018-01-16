@@ -43,114 +43,114 @@ As mentioned above, you can use content from outside sources ONLY if they are un
 
 ## Chromebook Data Science Curriculum: Courses
 ### Course I: Introduction and Setup
-- [] What to expect from the program?
-- [] What is expected from you?
-- [] What is data science?
-- [] What is a chromebook?
-- [] Getting logged on w/ account & w/o account
-- [] How to setup wifi
-- [] Tour of menus
-- [] Personalization
-- [] Where are the files stored? Google drive & local drive
-- [] Apps (Circle menu)
-- [] Common errors
-- [] Updating your Chromebook
-- [] What is a Chrome app
-- [] Pixlr
-- [] Suggested apps
-- [] Working offline
-- [] Your Coursera and DataCamp accounts
-- [] Internet safety
-- [] Ethics for data science
-- [] Data privacy
+- [ ] What to expect from the program?
+- [ ] What is expected from you?
+- [ ] What is data science?
+- [ ] What is a chromebook?
+- [ ] Getting logged on w/ account & w/o account
+- [ ] How to setup wifi
+- [ ] Tour of menus
+- [ ] Personalization
+- [ ] Where are the files stored? Google drive & local drive
+- [ ] Apps (Circle menu)
+- [ ] Common errors
+- [ ] Updating your Chromebook
+- [ ] What is a Chrome app
+- [ ] Pixlr
+- [ ] Suggested apps
+- [ ] Working offline
+- [ ] Your Coursera and DataCamp accounts
+- [ ] Internet safety
+- [ ] Ethics for data science
+- [ ] Data privacy
 
 ### Course II: Google and the Cloud
 - [x] What is the cloud?
 - [x] Google Chrome
 - [x] Google Drive
 - [x] Google Sheets
--[] Google Slides
+- [ ] Google Slides
 - [x] Google Docs
 - [x] Google Calendar
-- [] Google Maps
-- [] Google Hangouts
-- [] Youtube
-- [] Gmail/Inbox
-- [] Dropbox
-- [] Internet friendly document formats
-- [] Slack
+- [ ] Google Maps
+- [ ] Google Hangouts
+- [ ] Youtube
+- [ ] Gmail/Inbox
+- [ ] Dropbox
+- [ ] Internet friendly document formats
+- [ ] Slack
 
 ### Course III: Data
-- [] What is data? Part 1 (Types of data)
-- [] What is data? Part 2 (Using data)
-- [] What is data? Part 3 (Exploratory data analysis)
-- [] Crazy internet files
-- [] Incaps
-- [] CSVs
-- [] Excel files
-- [] Where will files be online (database online, web pages, files)
+- [ ] What is data? Part 1 (Types of data)
+- [ ] What is data? Part 2 (Using data)
+- [ ] What is data? Part 3 (Exploratory data analysis)
+- [ ] Crazy internet files
+- [ ] Incaps
+- [ ] CSVs
+- [ ] Excel files
+- [ ] Where will files be online (database online, web pages, files)
 
 ### Course IV: R
-- [] What is R?
-- [] What is R used for?
-- [] R versus other statistical software
-- [] How to run R on chromebook
-- [] Digital Ocean
-- [] Tour of R Studio
-- [] Getting data in
-- [] Add on packages
-- [] R Markdown
-- [] R Reports
-- [] Creating pdfs with R
-- [] How to connect to Github
-- [] Exporting R data to Google Sheets
+- [ ] What is R?
+- [ ] What is R used for?
+- [ ] R versus other statistical software
+- [ ] How to run R on chromebook
+- [ ] Digital Ocean
+- [ ] Tour of R Studio
+- [ ] Getting data in
+- [ ] Add on packages
+- [ ] R Markdown
+- [ ] R Reports
+- [ ] Creating pdfs with R
+- [ ] How to connect to Github
+- [ ] Exporting R data to Google Sheets
 
 ### Course V: MarkDown Basics
-- [] Introduction to MarkDown (Leah)
-- [] Creating/Previewing a MarkDown file in RStudio (Leslie)
-- [] Sharing a MarkDown document with others (Leslie)
-- [] Inserting links/images
-- [] Using MarkDown for reports
-- [] Creating a website using MarkDown
+- [ ] Introduction to MarkDown (Leah)
+- [ ] Creating/Previewing a MarkDown file in RStudio (Leslie)
+- [ ] Sharing a MarkDown document with others (Leslie)
+- [ ] Inserting links/images
+- [ ] Using MarkDown for reports
+- [ ] Creating a website using MarkDown
 
 
 ### Course VI: Github Basics
-- [] How to create an account
-- [] Version control
-- [] How to work with website
-- [] What is a repository
-- [] Create repository
-- [] Edit repository
-- [] Make an issue
-- [] How to search for code
-- [] Public vs private repos
-- [] MarkDown (moved to module 5)
-- [] Markdown editing (moved to module 5)
+- [ ] How to create an account
+- [ ] Version control
+- [ ] How to work with website
+- [ ] What is a repository
+- [ ] Create repository
+- [ ] Edit repository
+- [ ] Make an issue
+- [ ] How to search for code
+- [ ] Public vs private repos
+- [ ] MarkDown (moved to module 5)
+- [ ] Markdown editing (moved to module 5)
 
 ### Course VII: Key Packages
-- [] dplyr
-- [] tidyr
-- [] ggplot
-- [] readr
-- [] stringr
-- [] rvest
-- [] rdrop2
-- [] googlesheets
-- [] xm12
-- [] http
-- [] lubridate
-- [] viz
-- [] plotly
-- [] gganimate
+- [ ] dplyr
+- [ ] tidyr
+- [ ] ggplot
+- [ ] readr
+- [ ] stringr
+- [ ] rvest
+- [ ] rdrop2
+- [ ] googlesheets
+- [ ] xm12
+- [ ] http
+- [ ] lubridate
+- [ ] viz
+- [ ] plotly
+- [ ] gganimate
 
 ### Course VIII: Getting Help
-- []
+- [ ]
 
 ### Course IX: Data Cleaning and Visualization & Case Studies
-- [] Data cleaning process (Messy vs Tidy)
-- [] How to find R packages for different data types
-- [] Rstats.cetfile
-- [] How to make beautiful plots
-- [] Pushing/Pulling on Github (Own repo and others)
-- [] Common errors and conflicts
+- [ ] Data cleaning process (Messy vs Tidy)
+- [ ] How to find R packages for different data types
+- [ ] Rstats.cetfile
+- [ ] How to make beautiful plots
+- [ ] Pushing/Pulling on Github (Own repo and others)
+- [ ] Common errors and conflicts
 
