@@ -67,15 +67,15 @@ As mentioned above, you can use content from outside sources ONLY if they are un
 ### Course II: Google and the Cloud
 - [x] What is the cloud?
 - [x] Google Chrome
+- [ ] Gmail/Inbox
 - [x] Google Drive
 - [x] Google Sheets
 - [ ] Google Slides
 - [x] Google Docs
 - [x] Google Calendar
-- [ ] Google Maps
 - [ ] Google Hangouts
+- [ ] Google Maps
 - [ ] Youtube
-- [ ] Gmail/Inbox
 - [ ] Dropbox
 - [ ] Internet friendly document formats
 - [ ] Slack
