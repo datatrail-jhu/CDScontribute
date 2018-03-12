@@ -2,7 +2,7 @@
 
 ## Content Development
 ### Where to find the content?
-The most important way to contribute to the project at this point is content development. You can contribute by developing course lessons by choosing a lesson from the Trello board and pushing your files to the corresponding course repository. Since others have already started contributing to course development, make sure no other person has already claimed a course on Trello.
+The most important way to contribute to the project at this point is content development. You can contribute by developing course lessons by choosing a lesson from the [Trello board](https://trello.com/b/6HPYp8jO/chromebook-data-science) and pushing your files to the corresponding course repository. Since others have already started contributing to course development, make sure no other person has already claimed a course on Trello.
 
 ## Where to find the Github repos
 
