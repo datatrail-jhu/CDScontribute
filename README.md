@@ -58,10 +58,6 @@ You don't have to worry about this. Ari has issues reading names like package na
 
 A list of the accounts we created for Google and Github can be found [here](https://docs.google.com/spreadsheets/d/1Cr0cwPR03ois5IOHzFHW044e_EGHlWRfTfQlOj_-rEs/edit?usp=sharing).
 
-
-## Authorship Right
-While you will be acknowledged in the course content, by contributing to this project you agree to transfer the ownership of the content to develop to Chromebook Data Science Project and Jeffrey T. Leek. Althogh our intent is to redirect revenues back to the project, there is some revenue generated from the project (mainly through Leanpub). The transfer of authorship rights is to avoid the complexitiy that arises with the revenue generate from the project.
-
 ## What else
 
 Keep the following items in mind for an easy-to-read lesson.
