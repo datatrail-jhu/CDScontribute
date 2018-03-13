@@ -35,7 +35,7 @@ You can make a pdf file of your slides and convert pdf to pngs by using pdf2png.
 
 ### File naming
 
-[Here](https://docs.google.com/presentation/d/18ElVzRC4f8Z7pFH4dh4EmH-wb4GCQk1NzLSiItF1DlQ/edit#slide=id.p) is also a one-sheet guide for file naming conventions. 
+[Here](https://docs.google.com/presentation/d/18ElVzRC4f8Z7pFH4dh4EmH-wb4GCQk1NzLSiItF1DlQ/edit#slide=id.p) is also a one-sheet guide for file naming conventions.
 
 ### Slides
 
@@ -52,7 +52,7 @@ You can also check our our first course that is complete [here](https://github.c
 
 ### Ari dictionary
 
-You don't have to worry about this. Ari has issues reading names like package names so we're creating a dictionary that spells out the name for Ari for better pronounciation. You can add your words [here](https://docs.google.com/spreadsheets/d/1RlZNiSV7CQhRLZj1-_EFTNEnErMjcpkVP_2NH6y73iQ/edit#gid=0)
+You don't have to worry about this. Ari has issues reading names like package names so we're creating a dictionary that spells out the name for Ari for better pronunciation. You can add your words [here](https://docs.google.com/spreadsheets/d/1RlZNiSV7CQhRLZj1-_EFTNEnErMjcpkVP_2NH6y73iQ/edit#gid=0)
 
 ### Sample logins
 
@@ -64,9 +64,9 @@ Keep the following items in mind for an easy-to-read lesson.
 
 1. Avoid technical language!
 2. Explain new concepts! If you refer to a technical term (e.g. `dplyr`, `baseR`, or `Data Viz`) be sure that those terms are clearly defined in previous courses or course items.
-3. Do not introduce concepts, tools, or packages outside of the curriculum! If you have a suggesition for a course item, add it to the Trello board.
+3. Do not introduce concepts, tools, or packages outside of the curriculum! If you have a suggestion for a course item, add it to the Trello board.
 4. Use explanatory charts and graphs! And avoid using irrelevant graphics.
 5. Use examples! Examples are a great way to learn.
-6. Be aware of plagiarism and copyrighted content! Do not use any copyrighted third-party content and any content under Creative Content has to be commercial purposes as well. 
-7. [Freepik.com](www.freepik.com) is a great place to find CC-BY images that are ok to use for commercial use (however, not all images are allowed for commercial use.)
+6. Be aware of plagiarism and copyrighted content! Do not use any copyrighted third-party content and any content under Creative Content has to be commercial purposes as well.
+7. [Freepik.com](https://www.freepik.com/) is a great place to find CC-BY images that are ok to use for commercial use (however, not all images are allowed for commercial use.) Also check out [Unsplash](https://unsplash.com/) for beautiful free photos.
 8. Cite! You are responsible to cite the sources that you use in your content. If it is an image, provide the link where you downloaded the image at the bottom. If you cite a blog post, journal article, video, or any other document, provide the link and the date you accessed the content.
