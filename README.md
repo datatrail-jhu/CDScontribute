@@ -23,28 +23,42 @@ The most important way to contribute to the project at this point is content dev
 
 ## How to start
 
-Shannon has provided a nice checklist for what is expected from your contribution [here](https://docs.google.com/document/d/16pznQ1OG3sn2seCeaBRL6ig4tFeBQjKw7Ws_ndvraRU/edit). In sum, you need to provide a `.md` file of the lesson content, a `.md` file for the course script for Ari, a Google Slide presentation, and a folder with all the images used in the slides and the lesson content.
+Shannon has provided a nice checklist for what is expected from your contribution [here](https://docs.google.com/document/d/16pznQ1OG3sn2seCeaBRL6ig4tFeBQjKw7Ws_ndvraRU/edit) - (updated 2018-05-11). In sum, you need to provide:
+* a `.md` file of the lesson content
+* a `.md` file for the course script for Ari 
+* a Google Slide presentation 
+
+Note: (You no longer have to download the slides to PDF and PNGs)
 
 ### Markua Style
 
 It is important that you avoid complicated language and write an easy-to-read lesson. The intent of this program is to educate individuals with little to no knowledge of computers and data science. The content is written in Markup languge called Markua. For a guide on how to write your lesson in Markua, check this [link](https://leanpub.com/markua/read#leanpub-auto-what-is-markua).
 
+UPDATE (2018-05-11) : For using regular expressions and displaying only a subset wrong answers, see information from email [here](https://docs.google.com/document/d/1eW1K6JE6h-qeDmSy_ODtMsJr-4UojlXsvHQs75lDj-I/edit?usp=sharing).
+
 ### Creating images
 
-You can make a pdf file of your slides and convert pdf to pngs by using pdf2png.com or through imagemagik.
+All images should be included in your Google Slides Presentation. These images should be referenced in your manuscript file using the following convention (images/00_lecturename/00_coursename_lecturename-0.png). 
+
+**Note**: These images are **0-based**, so the png referenced above would be your title slide. You do not have to download the PDF or individual PNGs. 
 
 ### File naming
 
-[Here](https://docs.google.com/presentation/d/18ElVzRC4f8Z7pFH4dh4EmH-wb4GCQk1NzLSiItF1DlQ/edit#slide=id.p) is also a one-sheet guide for file naming conventions.
+[Here](https://docs.google.com/presentation/d/18ElVzRC4f8Z7pFH4dh4EmH-wb4GCQk1NzLSiItF1DlQ/edit#slide=id.p) is also a one-sheet guide for file naming conventions. (Updated: 2018-05-11)
 
 ### Slides
 
 Use [this template](https://docs.google.com/presentation/d/143gvqcynq_bl7iVd2G9yjumwJJkAy0S6CyNCsrJ2LgE/edit#slide=id.p) for creating your slides.
 
+### Scripts
+
+You'll want one paragraph per slide in your Google Slides presentation. You'll want to remove all markdown syntax and URLs that you don't want read out loud from this file. Ensure that the number of paragraphs in your _script.md file is equal to the number of slides in your Google Slides presentation.
+
 ### Quizzes and exercises
 
 Make sure to add a quiz at the end of each lesson! Quizzes have two main purposes. a) to test learner's knowledge b) prevent learners from completing a course lesson without reading and understanding the content.
 
+UPDATE (2018-05-11) : For using regular expressions and displaying only a subset wrong answers, see information from email [here](https://docs.google.com/document/d/1eW1K6JE6h-qeDmSy_ODtMsJr-4UojlXsvHQs75lDj-I/edit?usp=sharing).
 
 ### Sample course
 
