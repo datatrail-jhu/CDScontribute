@@ -50,6 +50,8 @@ All images should be included in your Google Slides Presentation. These images s
 
 Use [this template](https://docs.google.com/presentation/d/143gvqcynq_bl7iVd2G9yjumwJJkAy0S6CyNCsrJ2LgE/edit#slide=id.p) for creating your slides.
 
+Your Google Slides should be saved on Google Drive in the appropriate directory within [all_slides](https://drive.google.com/drive/u/0/folders/1HICZT1GPONuWppNdNnoKsFnqJwp-9myT). If you need access, please let us know.
+
 ### Scripts
 
 You'll want one paragraph per slide in your Google Slides presentation. You'll want to remove all markdown syntax and URLs that you don't want read out loud from this file. Ensure that the number of paragraphs in your _script.md file is equal to the number of slides in your Google Slides presentation.
