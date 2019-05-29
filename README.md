@@ -1,4 +1,4 @@
-# How to Contribute to the Chromebook Data Science project
+# How to Contribute to the Cloud-based Data Science project
 
 ## Content Development
 ### Where to find the content?
