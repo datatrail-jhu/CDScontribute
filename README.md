@@ -16,8 +16,9 @@ The most important way to contribute to the project at this point is content dev
 7. [Getting data](https://github.com/datatrail-jhu/07_data)
 8. [Data visualization](https://github.com/datatrail-jhu/08_dataviz)
 9. [Basics of data analysis](https://github.com/datatrail-jhu/09_dataanalysis)
-10. [Getting a job in data science](https://github.com/datatrail-jhu/10_dsjob)
-11. [How to create an R package](https://github.com/datatrail-jhu/12_package)
+10. [Written and Oral Communication in Data Science](https://github.com/datatrail-jhu/10_communication)
+11. [Getting a job in data science](https://github.com/datatrail-jhu/11_dsjob)
+12. [How to create an R package](https://github.com/datatrail-jhu/12_package)
 
 ## How to start
 
