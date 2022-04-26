@@ -6,7 +6,7 @@ output:
 ---
 
 ### For each course:
-- Create a separate GitHub repository @ https://github.com/jhudsl/ (format: "cds_coursename")
+- Create a separate GitHub repository @ https://github.com/datatrail-jhu/ (format: "cds_coursename")
 - within each course you'll create two directories: 'manuscript' and 'scripts'
 - within 'manuscript', create a 'resources' directory. Within resources, create 'images'
 

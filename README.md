@@ -6,27 +6,25 @@ The most important way to contribute to the project at this point is content dev
 
 ## Where to find the Github repos
 
-1. [Introduction to CDS](https://github.com/jhudsl/cds_intro)
-2. [Getting started](https://github.com/jhudsl/cds_gettingstarted)
-3. [Google and Cloud](https://github.com/jhudsl/cds_googlecloud)
-4. [File organization and projects](https://github.com/jhudsl/cds_fileorganization)
-5. [Github](https://github.com/jhudsl/cds_githubbasics)
-6. [Introduction to R](https://github.com/jhudsl/cds_R)
-7. [Data cleaning and wrangling](https://github.com/jhudsl/cds_datacleaning)
-8. [Getting data](https://github.com/jhudsl/cds_data)
-9. [Data visualization](https://github.com/jhudsl/cds_dataviz)
-10. [Basics of data analysis]()
-11. [Machine learning]()
-12. [Data products]()
-13. [Final projects]()
-14. [Getting a job in data science]()
+0. [Introduction to CDS](https://github.com/datatrail-jhu/00_intro)
+1. [Getting started](https://github.com/datatrail-jhu/01_gettingstarted)
+2. [Google and Cloud](https://github.com/datatrail-jhu/02_googlecloud)
+3. [File organization and projects](https://github.com/datatrail-jhu/03_fileorganization)
+4. [Github](https://github.com/datatrail-jhu/04_githubbasics)
+5. [Introduction to R](https://github.com/datatrail-jhu/05_R)
+6. [Data cleaning and wrangling](https://github.com/datatrail-jhu/06_datacleaning)
+7. [Getting data](https://github.com/datatrail-jhu/07_data)
+8. [Data visualization](https://github.com/datatrail-jhu/08_dataviz)
+9. [Basics of data analysis](https://github.com/datatrail-jhu/09_dataanalysis)
+10. [Getting a job in data science](https://github.com/datatrail-jhu/10_dsjob)
+11. [How to create an R package](https://github.com/datatrail-jhu/12_package)
 
 ## How to start
 
 Shannon has provided a nice checklist for what is expected from your contribution [here](https://docs.google.com/document/d/16pznQ1OG3sn2seCeaBRL6ig4tFeBQjKw7Ws_ndvraRU/edit) - (updated 2018-05-11). In sum, you need to provide:
 * a `.md` file of the lesson content
-* a `.md` file for the course script for Ari 
-* a Google Slide presentation 
+* a `.md` file for the course script for Ari
+* a Google Slide presentation
 
 Note: (You no longer have to download the slides to PDF and PNGs)
 
@@ -38,9 +36,9 @@ UPDATE (2018-05-11) : For using regular expressions and displaying only a subset
 
 ### Creating images
 
-All images should be included in your Google Slides Presentation. These images should be referenced in your manuscript file using the following convention (images/00_lecturename/00_coursename_lecturename-0.png). 
+All images should be included in your Google Slides Presentation. These images should be referenced in your manuscript file using the following convention (images/00_lecturename/00_coursename_lecturename-0.png).
 
-**Note**: These images are **0-based**, so the png referenced above would be your title slide. You do not have to download the PDF or individual PNGs. 
+**Note**: These images are **0-based**, so the png referenced above would be your title slide. You do not have to download the PDF or individual PNGs.
 
 ### File naming
 
@@ -64,7 +62,7 @@ UPDATE (2018-05-11) : For using regular expressions and displaying only a subset
 
 ### Sample course
 
-You can also check our our first course that is complete [here](https://github.com/jhudsl/cds_intro) (private repo). It will help you get an idea of writing style and how to create the slides and the script files.
+You can also check our our first course that is complete [here](https://github.com/datatrail-jhu/cds_intro) (private repo). It will help you get an idea of writing style and how to create the slides and the script files.
 
 ### Ari dictionary
 
